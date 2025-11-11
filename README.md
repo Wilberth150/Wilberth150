@@ -5,7 +5,6 @@
 
 💻 Skills: C++, JavaScript, Git, Arduino, Python  
 🌱 Learning: React, APIs, backend with Node.js  
-🚀 Projects: Pokédex App, Robot Controller, Automation Scripts
 📫 Contact me: wilberthr150@gmail.com
 
 Thanks for visiting!
