@@ -12,7 +12,7 @@ I love solving real problems through code and building projects that mix **hardw
 - 🌱 I’m currently learning **Node.js, React, and SQL**
 - 🔭 I’m working on projects like **Pokédex App**, **Robot Controller**, and **Automation Scripts**
 - 💬 Ask me about **Python, JavaScript, Arduino, or robotics**
-- 📫 Reach me at: [wilberthr150@gmail.com](mailto:wilberthr150@gmail.com)
+- 📫 Reach me at: [wrosash.dev@gmail.com](mailto:wrosash.dev@gmail.com)
 - ⚡ Fun fact: I teach others programming and robotics in my free time.
 
 ---
