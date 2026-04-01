@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-Computer Engineering student at **Instituto Politécnico Nacional (ESCOM/IPN)**. My focus is strictly on Backend development, algorithms, and systems engineering. I don't collect framework badges; I prioritize understanding how memory and logic work under the hood. 
+Computer Engineering student at **Instituto Politécnico Nacional (IPN)**. My focus is strictly on Backend development, algorithms, and systems engineering. I don't collect framework badges; I prioritize understanding how memory and logic work under the hood. 
 
 Currently mastering object-oriented design in **Java** for scalable systems, while applying low-level memory management and data structures in **C++**.
 
@@ -25,7 +25,7 @@ Currently mastering object-oriented design in **Java** for scalable systems, whi
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**cdmx-routing-engine**](#) | Transit pathfinder computing shortest paths across the CDMX Metro network. Implements the **Floyd-Warshall algorithm** and Adjacency Matrices for O(1) query times after kernel initialization. | C++ |
-| [**cppify-doubly-linked-lists**](#) | Console-based audio player demonstrating manual dynamic memory management and bidirectional node traversal using raw pointers, without standard library shortcuts. | C++ |
+| [**cppify-doubly-linked-lists**](https://github.com/Wilberth150/C-ify/blob/main/c%2B%2Bify.cpp) | Console-based audio player demonstrating manual dynamic memory management and bidirectional node traversal using raw pointers, without standard library shortcuts. | C++ |
 
 ---
 
