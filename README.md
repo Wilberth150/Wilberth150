@@ -24,7 +24,7 @@ Currently mastering object-oriented design in **Java** for scalable systems, whi
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**cdmx-routing-engine**](#) | Transit pathfinder computing shortest paths across the CDMX Metro network. Implements the **Floyd-Warshall algorithm** and Adjacency Matrices for O(1) query times after kernel initialization. | C++ |
+| [**cdmx-routing-engine**](https://github.com/Wilberth150/cdmx-routing-engine/blob/main/CdmxMetro) | Transit pathfinder computing shortest paths across the CDMX Metro network. Implements the **Floyd-Warshall algorithm** and Adjacency Matrices for O(1) query times after kernel initialization. | C++ |
 | [**cppify-doubly-linked-lists**](https://github.com/Wilberth150/C-ify/blob/main/c%2B%2Bify.cpp) | Console-based audio player demonstrating manual dynamic memory management and bidirectional node traversal using raw pointers, without standard library shortcuts. | C++ |
 
 ---
