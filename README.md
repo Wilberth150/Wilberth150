@@ -1,66 +1,42 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Wilbert</h1>
-<h3 align="center">💻 Computer Engineering Student | Web Developer | Robotics Enthusiast</h3>
+# Wilberth Rosas
+### Computer Engineering Student | Backend & Systems Architecture
 
 ---
 
-### 👨‍💻 About Me  
-I'm **Wilberth Rosas**, a Computer Engineering student passionate about **software development, automation, and robotics**.  
-Currently learning **Backend Development** with Node.js and **React** for full-stack applications.  
-I love solving real problems through code and building projects that mix **hardware and software**.
+### 👨‍💻 About Me
+I'm a Computer Engineering student at **Instituto Politécnico Nacional (IPN)** with a strong focus on **Backend Development** and systems engineering. I prefer building robust, efficient logic under the hood over designing flashy frontends. My engineering approach is rooted in understanding how memory, hardware, and algorithms interact to solve complex real-world problems.
 
-- 🌱 I’m currently learning **Node.js, React, and SQL**
-- 🔭 I’m working on projects like **Pokédex App**, **Robot Controller**, and **Automation Scripts**
-- 💬 Ask me about **Python, JavaScript, Arduino, or robotics**
-- 📫 Reach me at: [wrosash.dev@gmail.com](mailto:wrosash.dev@gmail.com)
-- ⚡ Fun fact: I teach others programming and robotics in my free time.
+- ⚙️ **Core Focus:** Backend Architecture, Data Structures, and API Development.
+- 🌱 **Currently deep-diving into:** The Java ecosystem for scalable systems and relational database management (SQL).
+- 🔭 **Interests:** Graph algorithms, hardware-software integration, and continuous skill refinement for international tech environments.
+- 📫 **Reach me at:** [wrosash.dev@gmail.com](mailto:wrosash.dev@gmail.com)
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Core Stack
 
-#### 💬 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,nodejs,react,arduino,git" />
-</p>
+* **Languages:** C++, Java, Python, JavaScript (Node.js)
+* **Databases & Architecture:** SQL, RESTful API concepts
+* **Tools & OS:** Git, Linux Terminal, Postman
+* **Hardware:** Arduino, Serial Communication, Robotics logic
 
-#### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,postman,figma" />
-</p>
+*(Note: I value mastering the underlying logic and memory management over merely collecting framework logos.)*
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**Pokédex App**](#) | A web app to explore Pokémon data using a public API. | HTML, CSS, JS, API |
-| [**Robot Controller**](#) | Control a small robot via serial communication. | C++, Arduino |
-| [**Automation Scripts**](#) | Python scripts for automating daily tasks. | Python, Git |
-
-🧩 *More projects coming soon…*
+| [**cdmx-routing-engine**](URL_DEL_REPO_AQUI) | Transit pathfinder computing shortest paths across the CDMX Metro network. Implements the **Floyd-Warshall algorithm** and Adjacency Matrices for $O(1)$ query times after kernel initialization. | C++, Graph Theory |
+| [**cppify-doubly-linked-lists**](URL_DEL_REPO_AQUI) | Console-based audio player demonstrating manual dynamic memory management and bidirectional node traversal using raw pointers, without standard library shortcuts. | C++, Windows API |
+| [**Serial Robot Controller**](URL_DEL_REPO_AQUI) | Low-level hardware controller built to manage and optimize real-time physical responses via serial communication. | C++, Arduino |
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Wilberth150&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilberth150&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
+### 🌐 Professional Network
+<p align="left">
   <a href="https://www.linkedin.com/in/wilberth-salatiel-rosas-huerta-418557188/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:wilberthr150@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
-
----
-
-⭐️ From [Wilberth150](https://github.com/Wilberth150)
